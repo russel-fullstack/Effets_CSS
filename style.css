@@ -79,23 +79,23 @@ input:checked + label .description{
 
 }
 .card[for="c1"]{
-    background: url(./winter.jpg) center/cover;
+    background: url(./Media/winter.jpg) center/cover;
 }
 .card[for="c2"]{
-    background: url(./beach.jpg) center/cover;
+    background: url(./Media/beach.jpg) center/cover;
 }
 .card[for="c3"]{
-    background: url(./star.jpg) center/cover;
+    background: url(./Media/star.jpg) center/cover;
 }
 .card[for="c4"]{
-    background: url(waouh.jpg) center/cover;
+    background: url(./Media/waouh.jpg) center/cover;
 }
 .card[for="c5"]{
-    background: url(./paysage.jpg) center/cover;
+    background: url(./Media/paysage.jpg) center/cover;
 }
 .card[for="c6"]{
-    background: url(./mountain.jpg) center/cover;
+    background: url(./Media/mountain.jpg) center/cover;
 }
 .card[for="c7"]{
-    background: url(./city.jpg) center/cover;
+    background: url(./Media/city.jpg) center/cover;
 }
